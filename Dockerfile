@@ -1,4 +1,4 @@
-@@ -0,0 +1,42 @@
+
 # Monolith: Vite frontend + Express API. Build from repo root.
 
 # --- Stage 1: build the SPA (Vite) ---
